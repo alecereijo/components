@@ -1,0 +1,1 @@
+En este ejercicio volvemos a comprobar como no es necesario tener nada escrito en tu index para tener el contenido en la pagina 
